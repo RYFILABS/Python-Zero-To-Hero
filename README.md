@@ -1,3 +1,3 @@
 # Python-Zero-To-Hero
 
-#BlaBlaBla
+Coursework for Python Zero To Hero Udemy Course
